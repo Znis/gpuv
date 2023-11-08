@@ -42,7 +42,7 @@ B. Host Machine Setup:
 The webapp can be browsed from the browser in any machine that is connected to the local network in which the server is in. The code executed on the webapp i.e. notebook is running on the server machine.
 
 ## Youtube Link Showing the Demo
-.[GpuV Project's Demo](https://www.youtube.com/embed/TGWBT7ZajAw)
+[GpuV Project's Demo](https://www.youtube.com/embed/TGWBT7ZajAw)
 
 
 ## Contributing
